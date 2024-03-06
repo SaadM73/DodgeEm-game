@@ -14,7 +14,6 @@ Increasing difficulty as the game progresses
 
 🚀 Getting Started:
 
-Clone the repository: git clone https://github.com/[YourUsername]/dodge-em-game.git
 Compile the code using your preferred C++ compiler and link SFML.
 Run the executable file.
 Enjoy playing Dodge 'Em!
